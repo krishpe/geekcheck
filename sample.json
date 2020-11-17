@@ -1,0 +1,16 @@
+{
+  "routes": {
+     "krish": {
+       "name" : "Mohana Krishna Padda",
+       "age"  : 28,
+       "geeky": true,
+       "website": "https://krishcdbry.com"
+     },
+     "cdbry": {
+       "name" : "Madhu Rina",
+       "age"  : 27,
+       "geeky": false,
+       "website": "https://google.com"
+     }
+  }
+}
